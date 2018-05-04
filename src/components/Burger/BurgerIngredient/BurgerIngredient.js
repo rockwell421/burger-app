@@ -41,7 +41,6 @@ class BurgerIngredient extends Component {
         default:
           ingredient = null;
       }
-
       return ingredient;
   }
 }
